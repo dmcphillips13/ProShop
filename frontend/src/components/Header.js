@@ -1,7 +1,7 @@
-import React from "react";
-import { LinkContainer } from "react-router-bootstrap";
-import { Navbar, Nav, Container } from "react-bootstrap";
-import ProductScreen from "../screens/ProductScreen";
+import React from 'react';
+import { LinkContainer } from 'react-router-bootstrap';
+import { Navbar, Nav, Container } from 'react-bootstrap';
+// import ProductScreen from "../screens/ProductScreen";
 
 const Header = () => {
   return (
